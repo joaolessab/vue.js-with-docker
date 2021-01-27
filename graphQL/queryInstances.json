@@ -1,0 +1,15 @@
+query{
+  instances {
+    id
+    instanceName
+    vms {
+      id
+      machineName
+      instance_type {
+        id
+        typeAlias
+        typeCode
+      }
+    }
+  }
+}
