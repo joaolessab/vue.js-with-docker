@@ -1,4 +1,4 @@
-# VUE INSIDE DOCKER IMAGE
+# VUE 2 INSIDE DOCKER IMAGE
 
 ### HOW PROJECT WAS CREATED
 1. Installed [Vue.js CLI](https://cli.vuejs.org/guide/installation.html) using Yarn;
