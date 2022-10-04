@@ -1,4 +1,4 @@
-# VCL VAST 2.0 VUE FRONTEND
+# VUE INSIDE DOCKER IMAGE
 
 ### HOW PROJECT WAS CREATED
 1. Installed [Vue.js CLI](https://cli.vuejs.org/guide/installation.html) using Yarn;
